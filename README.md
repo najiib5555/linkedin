@@ -1,2 +1,1 @@
-# linkedin
-clone project
+linkedin/index.html
